@@ -13,7 +13,7 @@
 - [CSS ASSESSMENT 6: A Fundamental Layout Comprehension](https://stephnora-fundamental-layout.netlify.app/)
 
 
-- [JAVASCRIPT ASSESSMENT 1: Silly story generator]()
-- [JAVASCRIPT ASSESSMENT 2: Image gallery]()
-- [JAVASCRIPT ASSESSMENT 3: Adding features to our bouncing balls demo]()
-- [JAVASCRIPT ASSESSMENT 4: Sequencing animations]()
+- [JAVASCRIPT ASSESSMENT 1: Silly story generator](https://stephnor-silly-generator-story.netlify.app/)
+- [JAVASCRIPT ASSESSMENT 2: Image gallery](https://stephnora-image-gallery.netlify.app/)
+- [JAVASCRIPT ASSESSMENT 3: Adding features to our bouncing balls demo](https://stephnora-bouncing-balls.netlify.app/)
+- [JAVASCRIPT ASSESSMENT 4: Sequencing animations](https://stephnora-sequence-animation.netlify.app/)
