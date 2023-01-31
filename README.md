@@ -1,8 +1,8 @@
 # Assessment
--[HTML ASSESSMENT 1: Marking up a letter](https://stephnora-markup-letter.netlify.app/)
--[HTML ASSESSMENT 2: Structuring a page of content]()
--[HTML ASSESSMENT 3: Mozilla splash page]()
--[HTML ASSESSMENT 4: Structuring planet data]()
+- [HTML ASSESSMENT 1: Marking up a letter](https://stephnora-markup-letter.netlify.app/)
+- [HTML ASSESSMENT 2: Structuring a page of content](https://stephnora-birdwatching.netlify.app/)
+- [HTML ASSESSMENT 3: Mozilla splash page](https://stephnora-mozilla-webpage.netlify.app/)
+- [HTML ASSESSMENT 4: Structuring planet data](https://stephnora-planet-data.netlify.app/)
 
 
 - [CSS ASSESSMENT 1: A Styling-Biography](https://stephnora-styling-biography.netlify.app/)
@@ -13,7 +13,7 @@
 - [CSS ASSESSMENT 6: A Fundamental Layout Comprehension](https://stephnora-fundamental-layout.netlify.app/)
 
 
--[JAVASCRIPT ASSESSMENT 1: Silly story generator]()
--[JAVASCRIPT ASSESSMENT 2: Image gallery]()
--[JAVASCRIPT ASSESSMENT 3: Adding features to our bouncing balls demo]()
--[JAVASCRIPT ASSESSMENT 4: Sequencing animations]()
+- [JAVASCRIPT ASSESSMENT 1: Silly story generator]()
+- [JAVASCRIPT ASSESSMENT 2: Image gallery]()
+- [JAVASCRIPT ASSESSMENT 3: Adding features to our bouncing balls demo]()
+- [JAVASCRIPT ASSESSMENT 4: Sequencing animations]()
